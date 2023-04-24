@@ -4,7 +4,7 @@ version = "0.1.0"
 edition = "2021"
 
 [dependencies]
-borsh = "0.9.3"
+borsh = "0.10.3"
 chrono = "0.4.22"
 envy = "0.4.2"
 mpl-token-metadata = "1.4.3"
