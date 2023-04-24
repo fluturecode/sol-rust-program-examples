@@ -1,4 +1,3 @@
-use borsh::de::BorshDeserialize;
 use mpl_token_metadata::state::Metadata;
 use solana_client::rpc_client::RpcClient;
 use solana_sdk::pubkey::Pubkey;
